@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My application</string>
+    <string name="user_name_hint">User Name</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_hint">Login</string>
+
 </resources>
